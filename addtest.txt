@@ -8,6 +8,24 @@ Test debug.
 Test again.
 Test edit and push it.
 Here test edit and wait for master pull it.
+test :ssdfasdgsadg
+ssdgasdgsdg
+asdfsadgasd
+1111111111111111122222222222222223333333333333333333344444444444444444444
+222222222222222222222222222
+3333333333333
+11111111111111111111122222222222222222222222222222
+
+pull new skill dev test
+
+
+
+a new test to skill dev 
+a buchn 
+
+goo 
+
+giiittooo
 
 
 
